@@ -78,7 +78,7 @@ Barometer: MS5611 SPI
 ...
 ```
 
-####How do I change the sensors that my robot is using?
+#### How do I change the sensors that my robot is using?
 There's a script that does the change for you. After running the script you just need to recompile. E.g.: to change to the `MPU6000` you would do:
 ```bash
 cd ardupilot/Tools/Linux_HAL_Essentials
